@@ -1,6 +1,6 @@
 # Shop App
 
-Shop App is a flutter app that display a catalog of products and manage a shopping cart.
+Shop App is a flutter app that displays a products catalog and manages a shopping cart.
 
 ## Screenshots
 
@@ -30,6 +30,14 @@ Run the app on the device of your choice (web/android/ios)
 
 ```bash
 flutter run -d <deviceId>
+```
+
+## Tests
+
+Run tests:
+
+```bash
+flutter test
 ```
 
 ## Contributing
