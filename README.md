@@ -2,6 +2,10 @@
 
 Shop App is a flutter app that display a catalog of products and manage a shopping cart.
 
+## Screenshots
+
+<img src="ss_catalog.jpg" height="300em" /> <img src="ss_cart.jpg" height="300em" />
+
 ## Usage
 
 ### Step 1:
@@ -29,9 +33,11 @@ flutter run -d <deviceId>
 ```
 
 ## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
