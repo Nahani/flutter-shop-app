@@ -1,16 +1,37 @@
-# shopapp
+# Shop App
 
-A new Flutter project.
+Shop App is a flutter app that display a catalog of products and manage a shopping cart.
 
-## Getting Started
+## Usage
 
-This project is a starting point for a Flutter application.
+### Step 1:
 
-A few resources to get you started if this is your first Flutter project:
+Download or clone this repo by using the link below:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```bash
+https://github.com/Nahani/flutter-shop-app.git
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Step 2:
+
+Go to project root and execute the following command in console to get the required dependencies:
+
+```bash
+flutter pub get
+```
+
+### Step 3:
+
+Run the app on the device of your choice (web/android/ios)
+
+```bash
+flutter run -d <deviceId>
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
